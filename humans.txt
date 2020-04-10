@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Nguyen Cong Tri	nctri1501@gmail.com	@kephas1501
 
 # THANKS
 
